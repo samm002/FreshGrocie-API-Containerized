@@ -1,2 +1,2 @@
 # FreshGrocie API
-Containerized ready for deployment of FreshGrocie API
+Containerized and ready for deployment of the FreshGrocie API
